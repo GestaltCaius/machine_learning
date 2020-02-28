@@ -1,3 +1,6 @@
 jupyterlab
 jupyter
 pandas
+matplotlib
+scipy
+scikit-learn
